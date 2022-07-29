@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Pages Playground
 description: playground for trying out github pages
-remote_theme: just-the-docs/just-the-docs
+remote_theme: stephenAbi/ci_docs_theme
 search_enabled: true
 # Maximum amount of previews per search result
 # Default: 3
